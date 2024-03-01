@@ -1,0 +1,379 @@
+h2
+{
+	font-family: "Poppins", sans-serif;
+	position: absolute;
+	left: 200px;
+	top: 50px;
+	font-size: ;
+
+}
+span
+{
+	font-family: "Poppins", sans-serif;
+	color: #d1d1d1;
+}
+.p p
+{
+	font-size: 10px;
+	color: #d1d1d1;
+	font-family: "Poppins", sans-serif;
+  	font-style: normal;
+  	position: absolute;
+	left: 200px;
+	top: 90px;
+
+}
+.img img
+{
+	width: 30px;
+	height:30px;
+	position: absolute;
+	left: 1050px;
+	top: 70px;
+}
+.img1 img
+{
+	width: 50px;
+	height:35px;
+	position: absolute;
+	left: 1100px;
+	top: 70px;
+}
+.img2 img
+{
+	width: 40px;
+	height:40px;
+	position: absolute;
+	left: 1150px;
+	top: 65px;
+}
+.box
+{
+	border: 0px solid;
+	height: 430px;
+	width: 1000px;
+	margin: -120px 135px 0px;
+	background-color: #e6e6e6;
+	box-shadow: -5px 10px 20px 2px #d1d1d1;
+	border-radius:5px;
+	position: absolute;
+	top: 250px;
+	left: 60px;
+}
+ul li
+{
+	list-style-type:none ;
+	margin-top: 10px;
+	float: left;
+	margin-left:20px;
+	position: relative;
+	left: -30px;
+}
+.icon i
+{
+	float: left;
+	position: relative;
+	margin-top: 20px;
+	left: 800px;
+}  
+.icon1 i
+{
+	float: left;
+	position: relative;
+	margin-top: 20px;
+	left: 820px;
+} 
+.icon2 i
+{
+	float: left;
+	position: relative;
+	margin-top: 20px;
+	left: 840px;
+}.icon3 i
+{
+	float: left;
+	position: relative;
+	margin-top: 20px;
+	left: 860px;
+}
+
+h4
+{
+	font-family: "Poppins", sans-serif;
+	float: left;
+	position: absolute;
+	margin-top: 20px;
+	left:480px;
+	text-align: right;
+}
+.name p 
+{
+	text-align: center;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	font-weight:1000;
+	font-size: 35px;
+	position: relative;
+	top: 20px;
+	left:-175px;
+}
+.box1
+{
+	border: 0px  solid;
+	height: 178px;
+	width: 185px;
+	position: relative;
+	left: 400px;
+	top: 70px;
+	border-radius: 5px 5px 0px 0px;
+	background-color: #fff;
+}
+.box2
+{
+	border: 0px  solid;
+	height: 170px;
+	width: 170px;
+	position: relative;
+	left: 7px;
+	top: 6px;
+	border-radius: 5px 5px 0px 0px;
+	background-color:#cfcfcf;
+}
+.pic img 
+{
+ 	height: 250px;
+ 	width: 213px;
+ 	position: relative;
+ 	bottom: 78px;
+ 	left: -20px;
+}
+.service font
+{
+	font-size: 15px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	margin: 60px;
+	position: relative;
+	top: -170px;
+	font-weight: 450;
+}
+.iconbox
+{
+	border: 0.5px ;
+	height: 28px;
+	width: 28px;
+	position: absolute;
+	bottom: 235px;
+	left: 60px;
+	background-color: #fff;
+}
+.iconbox img 
+{
+	height: 20px;
+	width: 20px;
+	padding: 4px;
+}
+.cont font
+{
+	font-size: 13px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	position: absolute;
+	top: 170px;
+	left: 100px;
+	font-weight: 450;
+}
+.txt p 
+{
+	text-align: justify;
+	font-size: 9px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	position: absolute;
+	top: 190px;
+	left: 60px;
+	color: #878787;
+}
+.iconbox1
+{
+	border: 0.5px ;
+	height: 28px;
+	width: 28px;
+	position: absolute;
+	bottom: 155px;
+	left: 60px;
+	background-color: #fff;
+}
+.iconbox1 img 
+{
+	height: 20px;
+	width: 20px;
+	padding: 4px;
+}
+.cont1 font
+{
+	font-size: 13px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	position: absolute;
+	top: 250px;
+	left: 100px;
+	font-weight: 450;
+}
+.txt1 p 
+{
+	text-align: justify;
+	font-size: 9px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	position: absolute;
+	top: 270px;
+	left: 60px;
+	color: #878787;
+}
+.iconbox2
+{
+	border: 0.5px ;
+	height: 28px;
+	width: 28px;
+	position: absolute;
+	top: 325px;
+	left: 60px;
+	background-color: #fff;
+}
+.iconbox2 img 
+{
+	height: 20px;
+	width: 20px;
+	padding: 4px;
+}
+
+.cont2 font
+{
+	font-size: 13px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	position: absolute;
+	top: 330px;
+	left: 100px;
+	font-weight: 450;
+}
+.txt2 p 
+{
+	text-align: justify;
+	font-size: 9px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	position: absolute;
+	top:350px;
+	left:60px;
+	color: #878787;
+}
+.contant p 
+{
+	font-size: 20px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	position: absolute;
+	top:120px;
+	font-weight: 450;
+	left: 700px;	
+}
+.txt3 p 
+{
+	text-align: justify;
+	font-size: 9px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	position: absolute;
+	top: 170px;
+	left: 700px;
+	color: #878787;
+}
+.herebox
+{
+	border: 1px solid;
+	height: 25px;
+	width: 80px;
+	position: absolute;
+	left: 700px;
+	top: 300px;
+	background-color: #2d2e2e;
+}
+.herebox font 
+{
+	font-size: 15px;
+	color: #fff;
+	position: absolute;
+	left: 15px;
+	top: 4px;
+}
+.ex font
+{
+	font-size: 16px;
+	font-weight: 450;
+	position: absolute;
+	left: 700px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	top: 350px;
+}
+.ex p 
+{
+	position: absolute;
+	left: 700px;
+	font-size: 9px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	color: #878787 ;
+	top: 370px;
+}
+.ex1 font
+{
+	font-size: 16px;
+	font-weight: 450;
+	position: absolute;
+	left: 770px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	top: 350px;
+}
+.ex1 p 
+{
+	position: absolute;
+	left: 770px;
+	font-size: 9px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	color: #878787 ;
+	top: 370px;
+}
+.ex2 font
+{
+	font-size: 16px;
+	font-weight: 450;
+	position: absolute;
+	left: 825px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	top: 350px;
+}
+.ex2 p 
+{
+	position: absolute;
+	left: 825px;
+	font-size: 9px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	color: #878787 ;
+	top: 370px;
+}
+.prt
+{
+	position: absolute;
+	height: 40px;
+	width: 70px;
+	top: 50px;
+	left: -50px;
+	opacity:0.1;
+}
